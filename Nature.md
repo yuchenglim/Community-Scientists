@@ -25,7 +25,7 @@ https://www.jungledragon.com/specie/8554/orange_sharpshooter.html
 Cicadellidae Checklist: Leafhoppers  
 https://www.nickybay.com/cicadellidae-checklist-leafhoppers/
 
-Syzygium myrtifolium (Roxb.) Walp.
+Syzygium myrtifolium (Roxb.) Walp.  
 https://www.nparks.gov.sg/florafaunaweb/flora/3/1/3156
 
 ##### Compilations
