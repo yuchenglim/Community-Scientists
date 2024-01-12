@@ -2,7 +2,7 @@
 Why I like Chemguide:  
 Contains deeper information that would be considered out of the syllabus yet crucial for understanding  
 Refers you to the chemical literature (books, journal articles!)  
-Right way to learn!  
+Shows the right way to learn!  
 _____________________________________________
 What follows are quotes from Chemguide and their links. My own annotations are in () in their own line.
 
