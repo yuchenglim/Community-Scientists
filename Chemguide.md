@@ -1,5 +1,11 @@
+### Chemguide
+Why I like Chemguide:  
+Contains deeper information that would be considered out of the syllabus yet crucial for understanding  
+Refers you to the chemical literature (books, journal articles!)  
+Right way to learn!  
+_____________________________________________
 Nucleophile:  A species (molecule or ion) which attacks a positive site in something else. Nucleophiles are either fully negative ions or contain a fairly negative region somewhere in a molecule. All nucleophiles have at least one active lone pair of electrons. When you write mechanisms for reactions involving nucleophiles, you must show that lone pair.  
-[https://www.chemguide.co.uk/mechanisms/nucadd/hcn.html#top](https://www.chemguide.co.uk/mechanisms/nucadd/hcn.html#top:~:text=Nucleophile%3A%20%C2%A0A,that%20lone%20pair.)https://www.chemguide.co.uk/mechanisms/nucadd/hcn.html#top:~:text=Nucleophile%3A%20%C2%A0A,that%20lone%20pair.
+https://www.chemguide.co.uk/mechanisms/nucadd/hcn.html#top
 
 But it isn't too difficult to make up questions for yourself which would help you through the whole topic. Choose a simple reaction where you can find entropy values for everything involved. Use a data book if you have one, or find the equivalent information online, and avoid anything which involves solutions.  
 https://www.chemguide.co.uk/physical/entropy/deltag.html#top
@@ -13,6 +19,10 @@ https://www.chemguide.co.uk/mechanisms/elim/dhethanol.html
 
 Warning! The method described below is NOT complete. It deliberately avoids mentioning quantities and doesn't cover any of the safety aspects of the preparation. You can find full details in most organic practical books.  
 https://www.chemguide.co.uk/organicprops/haloalkanes/making.html
+
+Note:  If you want to follow this up, you will find a research article on this page from the Journal of the American Chemical Society. This will give you the first page of the article, which contains enough information for this level. If you have the right access, you can, of course, read the whole thing.  
+https://www.chemguide.co.uk/inorganic/group7/acidityhx.html
+
 
 unlisted:  
 (contains many unlisted link; itself not an unlisted link)  
