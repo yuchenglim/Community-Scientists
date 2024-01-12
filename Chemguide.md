@@ -7,9 +7,15 @@ https://www.chemguide.co.uk/physical/entropy/deltag.html#top
 You will, of course, need to practise doing this until you are completely confident, but you will need to find your own examples.  
 https://www.chemguide.co.uk/physical/entropy/entropychange.html#top
 
+(the literature!)  
+There is experimental evidence to support it. While I was researching this, I came across two academic papers (here and here). These suggest that there is experimental evidence for both propan-1-ol and ethanol dehydrating using a mechanism which doesn't involve a carbocation as the intermediate. I haven't been able to find any experimental evidence for a dehydration mechanism involving carbocations in the case of primary alcohols.  
+https://www.chemguide.co.uk/mechanisms/elim/dhethanol.html
+
 unlisted:  
 (contains many unlisted link; itself not an unlisted link)  
 https://www.chemguide.co.uk/physical/catalysis/acidcat.html#top
 
 https://www.chemguide.co.uk/inorganic/redox/equations2.html#top
+
+
 
