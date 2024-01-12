@@ -14,3 +14,5 @@ https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textb
 
 EXPLAINING THE GEOMETRY OF SIMPLE MOLECULES USING MOLECULAR ORBITAL ENERGY-LEVEL DIAGRAMS BUILT BY USING SYMMETRY PRINCIPLES, Sérgio P. Machado and Roberto B. Faria  
 https://quimicanova.sbq.org.br/detalhe_artigo.asp?id=6750
+
+Molecular orbitals of methane: symmetry or hybridization?, eng Wang
