@@ -11,6 +11,9 @@ https://www.chemguide.co.uk/physical/entropy/entropychange.html#top
 There is experimental evidence to support it. While I was researching this, I came across two academic papers (here and here). These suggest that there is experimental evidence for both propan-1-ol and ethanol dehydrating using a mechanism which doesn't involve a carbocation as the intermediate. I haven't been able to find any experimental evidence for a dehydration mechanism involving carbocations in the case of primary alcohols.  
 https://www.chemguide.co.uk/mechanisms/elim/dhethanol.html
 
+Warning! The method described below is NOT complete. It deliberately avoids mentioning quantities and doesn't cover any of the safety aspects of the preparation. You can find full details in most organic practical books.  
+https://www.chemguide.co.uk/organicprops/haloalkanes/making.html
+
 unlisted:  
 (contains many unlisted link; itself not an unlisted link)  
 https://www.chemguide.co.uk/physical/catalysis/acidcat.html#top
