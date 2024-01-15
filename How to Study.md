@@ -1,3 +1,26 @@
+Don't rely on solutions manuals. Check your own solutions!  
+https://math.stackexchange.com/questions/2662249/solutions-manual-calculus-simmons
+
+How I went from Cs to A*A*A*A in A Levels (tips no one told me + notes)  
+https://www.youtube.com/watch?v=8kSrjG7aSz0&t=300s
+
+A day in the life of an Astrophysicist at Oxford University  
+https://youtu.be/XW_qIqLhPkI?si=3HtQvrGHJ0xZxlle
+
+A Pathway To Excellence: Jarell Cheong on Harvard, Malaysia, and The Pathway to Happiness  
+https://youtu.be/L4hTgudD3e8?si=11phc9wFaKALQJCy
+
+Scrum board??? Je Qin's list!
+
+that math thing: you've been studying math wrong; phd  
+https://youtu.be/RpCCnBSs4Y4?si=KqSq357xl0Uomfgk  
+List of problems given by faculty???!!!  
+https://gma.math.ufl.edu/past-exams/phd-analysis/  
+
+Can I be like them?  
+https://www.physics.nus.edu.sg/felix-yew-cheng-en-national-junior-college/
+
+
 __________________________________
 To learn, you must explore new horizons, challenging your conceptual understanding, perhaps revealing mistakes! You learn more from the hardest problems!
 
