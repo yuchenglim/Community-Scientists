@@ -6,4 +6,6 @@ Why must students *rely* on monopolistic teachers? Why would we rely on politici
 Addicted to sugar  
 https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2024/ep-240111  
 How harmful can ultra-processed foods be for us? - BBC News  
-https://youtu.be/wIhbYA5QLEw?si=PJHpqyj3DZI8MDCy
+https://youtu.be/wIhbYA5QLEw?si=PJHpqyj3DZI8MDCy  
+How Do Tobacco Executives Live With Themselves?  
+https://www.nytimes.com/1994/03/20/magazine/how-do-tobacco-executives-live-with-themselves.html
