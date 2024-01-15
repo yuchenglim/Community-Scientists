@@ -6,6 +6,11 @@ Shows the right way to learn!
 _____________________________________________
 What follows are quotes from Chemguide and their links. My own annotations are in () in their own line.
 
+(Learning by considering edge cases)  
+Will dilute nitric acid react with copper?  
+Two examples where the E° values seem to give the wrong answer  
+https://www.chemguide.co.uk/physical/redoxeqia/predict.html
+
 Nucleophile:  A species (molecule or ion) which attacks a positive site in something else. Nucleophiles are either fully negative ions or contain a fairly negative region somewhere in a molecule. All nucleophiles have at least one active lone pair of electrons. When you write mechanisms for reactions involving nucleophiles, you must show that lone pair.  
 https://www.chemguide.co.uk/mechanisms/nucadd/hcn.html#top
 
