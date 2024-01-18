@@ -20,6 +20,10 @@ https://gma.math.ufl.edu/past-exams/phd-analysis/
 Can I be like them?  
 https://www.physics.nus.edu.sg/felix-yew-cheng-en-national-junior-college/
 
+__________________________________
+The state of science: can we fix this?  
+https://www.reddit.com/r/chemistry/comments/163xjhj/my_plea_to_the_synthetic_chemistry_community/  
+https://www.reddit.com/r/sysadmin/comments/8r1gvq/migrating_old_multimillion_dollar_lab_equipement/
 
 __________________________________
 To learn, you must explore new horizons, challenging your conceptual understanding, perhaps revealing mistakes! You learn more from the hardest problems!
@@ -27,7 +31,7 @@ To learn, you must explore new horizons, challenging your conceptual understandi
 
 Mad as maths by Trifon Madas  
 https://madasmaths.com/
-
+### Problems from around the world:
 #### US
 US Syllabus: Advanced Placement vs Honors
 
