@@ -1,6 +1,12 @@
 Don't rely on solutions manuals. Check your own solutions!  
 https://math.stackexchange.com/questions/2662249/solutions-manual-calculus-simmons
 
+How do people come up with problems!?  
+http://www.wfnmc.org/NL1987engela.pdf  
+https://math.stackexchange.com/questions/203301/how-do-people-come-up-with-difficult-math-olympiad-questions  
+https://math.stackexchange.com/questions/3431269/how-do-people-create-difficult-recreational-problems-e-g-like-those-found-in  
+https://math.stackexchange.com/questions/2821112/integral-milking-working-backward-to-construct-nontrivial-integrals?
+
 How I went from Cs to A*A*A*A in A Levels (tips no one told me + notes)  
 https://www.youtube.com/watch?v=8kSrjG7aSz0&t=300s
 
