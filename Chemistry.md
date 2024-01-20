@@ -1,4 +1,4 @@
-It's better to read more books than to search the web for a specific answer. Anyway, here are the topics + literature.
+The best way to understand is to challenge your understanding with WILD examples, tough problems. It's better to read more books than to search the web for a specific answer. Anyway, here are specific topics + literature.
 
 **Misc Problems**  
 💜Boiling of concentrated sulfuric acid   
@@ -21,7 +21,7 @@ https://en.m.wikipedia.org/wiki/Charge_carrier_density
 https://chemistry.stackexchange.com/questions/5357/are-fractional-oxidation-states-possible/5358#5358
 
 💜Why do metals form metallic bonds among tthemselves? How can we predict/expain it based on its atomic structure, shells etc? How about electronegativity?  
-(See interesting links therein)  
+(See interesting links for wild examples of bonding!!)  
 https://chemistry.stackexchange.com/questions/5734/why-dont-metals-form-covalent-bonds-in-bulk-metal  
 https://en.m.wikipedia.org/wiki/Metallic_bonding
 
