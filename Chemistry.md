@@ -17,6 +17,14 @@ https://chemistry.stackexchange.com/questions/97993/in-a-copper-wire-how-many-el
 (See table in Metals section)
 https://en.m.wikipedia.org/wiki/Charge_carrier_density
 
+💜The "oxidation number" is a theoretical value used to do electron bookkeeping and is one way of comparing the number of electrons "owned" by an atom in a molecule or ion versus how many valence electrons present in the atom as depicted on the periodic table.  
+https://chemistry.stackexchange.com/questions/5357/are-fractional-oxidation-states-possible/5358#5358
+
+💜Why do metals form metallic bonds among tthemselves? How can we predict/expain it based on its atomic structure, shells etc? How about electronegativity?  
+(See interesting links therein)  
+https://chemistry.stackexchange.com/questions/5734/why-dont-metals-form-covalent-bonds-in-bulk-metal  
+https://en.m.wikipedia.org/wiki/Metallic_bonding
+
 
 **Molecular Orbital Theory**  
 Benzene  
