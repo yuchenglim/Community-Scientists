@@ -1,5 +1,19 @@
 It's better to read more books than to search the web for a specific answer. Anyway, here are the topics + literature.
 
+**Misc Problems**
+💜Boiling of concentrated sulfuric acid   
+Sulfuric Acid and Water: Paradoxes of Dilution  
+https://pubs.acs.org/doi/10.1021/ed081p991  
+Real-time simulation of violent boiling in concentrated sulfuric acid dilution  
+https://dl.acm.org/doi/abs/10.1007/s00371-021-02208-0  
+A new approach to boiling simulation using a discrete particle based method  
+https://www.sciencedirect.com/science/article/abs/pii/S0097849315001442
+
+What does molten SiO2 look like!? P.S. what about melting diamonds, graphite!?  
+https://chemistry.stackexchange.com/questions/126961/bonding-in-molten-silicon-dioxide
+
+
+
 **Molecular Orbital Theory**  
 Benzene  
 Shape of methane, water  
