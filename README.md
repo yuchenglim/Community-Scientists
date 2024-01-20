@@ -1,6 +1,9 @@
 # Community-Scientists
 
-Why must students *rely* on teachers? Why would we rely on politicians, companies, doctors, professionals, leaders to make all decisions in our lives? Why would we mindlessly let companies dictate our lifestyle, let politicians manipulate our sanity? Why not we learn more ourselves? I mean, everyone learns more! 
+How do they know it?  
+https://astronomy.stackexchange.com/questions/34091/any-book-on-how-do-they-know-it-in-astronomy
+
+Can we know it too? Why must students *rely* on teachers? Why would we rely on politicians, companies, doctors, professionals, leaders to make all decisions in our lives? Why would we mindlessly let companies dictate our lifestyle, let politicians manipulate our sanity? Why not we learn more ourselves? I mean, everyone learns more! 
 
 (how companies shape our eating habits, for their own good!)  
 Addicted to sugar  
