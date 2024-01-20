@@ -1,6 +1,6 @@
 It's better to read more books than to search the web for a specific answer. Anyway, here are the topics + literature.
 
-**Misc Problems**
+**Misc Problems**  
 💜Boiling of concentrated sulfuric acid   
 Sulfuric Acid and Water: Paradoxes of Dilution  
 https://pubs.acs.org/doi/10.1021/ed081p991  
@@ -9,9 +9,13 @@ https://dl.acm.org/doi/abs/10.1007/s00371-021-02208-0
 A new approach to boiling simulation using a discrete particle based method  
 https://www.sciencedirect.com/science/article/abs/pii/S0097849315001442
 
-What does molten SiO2 look like!? P.S. what about melting diamonds, graphite!?  
+💜What does molten SiO2 look like!? P.S. what about melting diamonds, graphite!?  
 https://chemistry.stackexchange.com/questions/126961/bonding-in-molten-silicon-dioxide
 
+💜How many valence elctron per metal atom?
+https://chemistry.stackexchange.com/questions/97993/in-a-copper-wire-how-many-electrons-does-each-atom-give-away
+(See table in Metals section)
+https://en.m.wikipedia.org/wiki/Charge_carrier_density
 
 
 **Molecular Orbital Theory**  
