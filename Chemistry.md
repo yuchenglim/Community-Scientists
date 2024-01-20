@@ -12,21 +12,44 @@ https://dl.acm.org/doi/abs/10.1007/s00371-021-02208-0
 A new approach to boiling simulation using a discrete particle based method  
 https://www.sciencedirect.com/science/article/abs/pii/S0097849315001442
 
-💜What does molten SiO2 look like!? P.S. what about melting diamonds, graphite!?  
+💜What does molten SiO2 look like!? P.S. what about melting diamonds, graphite!?   
 https://chemistry.stackexchange.com/questions/126961/bonding-in-molten-silicon-dioxide
 
-💜How many valence elctron per metal atom?
-https://chemistry.stackexchange.com/questions/97993/in-a-copper-wire-how-many-electrons-does-each-atom-give-away
-(See table in Metals section)
+💜How many valence elctron per metal atom?  
+https://chemistry.stackexchange.com/questions/97993/in-a-copper-wire-how-many-electrons-does-each-atom-give-away  
+(See table in Metals section)  
 https://en.m.wikipedia.org/wiki/Charge_carrier_density
 
-💜The "oxidation number" is a theoretical value used to do electron bookkeeping and is one way of comparing the number of electrons "owned" by an atom in a molecule or ion versus how many valence electrons present in the atom as depicted on the periodic table.  
-https://chemistry.stackexchange.com/questions/5357/are-fractional-oxidation-states-possible/5358#5358
+
 
 💜Why do metals form metallic bonds among tthemselves? How can we predict/expain it based on its atomic structure, shells etc? How about electronegativity?  
 (See interesting links for wild examples of bonding!!)  
 https://chemistry.stackexchange.com/questions/5734/why-dont-metals-form-covalent-bonds-in-bulk-metal  
 https://en.m.wikipedia.org/wiki/Metallic_bonding
+
+
+💜3/9 Why do oxidation states work?  
+Most comprehensive:  
+https://chemistry.stackexchange.com/questions/69798/an-introduction-to-oxidation-state-oxidation-number  
+Counting valence electrons that are involved in a reaction  
+https://chemistry.stackexchange.com/questions/2714/why-do-oxidation-numbers-work  
+https://chemistry.stackexchange.com/questions/61040/what-are-oxidation-states-used-for  
+The "oxidation number" is a theoretical value used to do electron bookkeeping and is one way of comparing the number of electrons "owned" by an atom in a molecule or ion versus how many valence electrons present in the atom as depicted on the periodic table.  
+https://chemistry.stackexchange.com/questions/5357/are-fractional-oxidation-states-possible/5358#5358
+
+💜💜💜 15/8 Bond enthalpy calculations common mistake: gas phase! Enthalpy change of formation: standard state!  
+https://chemistry.stackexchange.com/questions/175606/discrepancy-between-calculated-and-experimental-enthalpy-change-of-formation-hy  
+https://chemistry.stackexchange.com/questions/49990/why-are-there-different-values-for-enthalpy-of-combustion-depending-on-the-calc/175632#175632
+
+
+💚 VSEPR  
+See side panel for more problems  
+https://winter.group.shef.ac.uk/vsepr/radicals.html  
+Advanced analysis: beyond VSEPR  
+https://www.ch.imperial.ac.uk/rzepa/blog/?p=10937  
+(Note the laguage: VSEPR standard application; calculation)  
+https://chemistry.stackexchange.com/questions/34610/what-is-the-favoured-geometry-of-chlorine-trifluoride  
+(Takeaway: VSEPR explanations/ideas are not always physical; what actually happens must be backed with numerical calculations, physical observables! VSEPR might tell you the shape, but the idea of BP, LP assumed in the model is inaccurate)
 
 
 **Molecular Orbital Theory**  
