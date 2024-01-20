@@ -1,6 +1,9 @@
 The best way to understand is to challenge your understanding with WILD examples, tough problems. It's better to read more books than to search the web for a specific answer. Anyway, here are specific topics + literature.
 
 **Misc Problems**  
+💜Plasmons! Ammonia and group 1 metals coordination chemistry; electron solvation  
+https://youtu.be/Mv_enhLIea8
+
 💜Boiling of concentrated sulfuric acid   
 Sulfuric Acid and Water: Paradoxes of Dilution  
 https://pubs.acs.org/doi/10.1021/ed081p991  
