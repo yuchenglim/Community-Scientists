@@ -1,6 +1,6 @@
 # Community-Scientists
 
-Why must students *rely* on monopolistic teachers? Why would we rely on politicians, companies, doctors, professionals, leaders to make all decisions in our lives? Why would we mindlessly let companies dictate our lifestyle, let politicians manipulate our sanity? Why not we learn more ourselves? I mean, everyone learns more! 
+Why must students *rely* on teachers? Why would we rely on politicians, companies, doctors, professionals, leaders to make all decisions in our lives? Why would we mindlessly let companies dictate our lifestyle, let politicians manipulate our sanity? Why not we learn more ourselves? I mean, everyone learns more! 
 
 (how companies shape our eating habits, for their own good!)  
 Addicted to sugar  
