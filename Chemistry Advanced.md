@@ -15,7 +15,7 @@ https://www.bipm.org/documents/20126/2619564/Estimates_Differences_T-T90_2010.pd
 
 
 # Physical Chemistry
-Thermodynamics:  
+#### Thermodynamics:  
 (How its measured; how data is analysed)  
 Handbook of Thermal Analysis and Calorimetry Principles and Practice  
 
@@ -23,7 +23,7 @@ Handbook of Thermal Analysis and Calorimetry Principles and Practice
 Distinguishing between Clausius, Boltzmann and Pauling Entropies of Frozen Non-Equilibrium States  
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7515328/
 
-Electrochemistry:  
+#### Electrochemistry:  
 Plambeck Electroanalytical chemistry   
 Bard Faulkner electrochemical methods  
 
