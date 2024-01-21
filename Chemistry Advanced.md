@@ -1,5 +1,5 @@
-### Metrology
-##### Temperature Scale
+# Metrology
+### Temperature Scale
 https://en.wikipedia.org/wiki/International_Temperature_Scale_of_1990
 
 A practical effect ... is that the triple points and the freezing/melting points of its thirteen chemical elements are precisely known ... since these thirteen values are **fixed by definition**.
@@ -14,7 +14,7 @@ https://www.bipm.org/documents/20126/2619564/Estimates_Differences_T-T90_2010.pd
 
 
 
-### Physical Chemistry
+# Physical Chemistry
 Electrochemistry:  
 Plambeck Electroanalytical chemistry   
 Bard Faulkner electrochemical methods  
