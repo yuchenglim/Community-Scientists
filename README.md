@@ -2,7 +2,7 @@
 
 ![learn_x_protest](https://github.com/yuchenglim/Community-Scientists/blob/main/Images/learn_x_protest.png)
 
-Live to learn, solve problems, share knowledge and help others learn. There's no point asking companies, politicians to change. They are always monopolizing knowledge! The only way is for us to learn more ;)
+Live to learn, solve problems, share knowledge and help others learn. There's no point asking companies, politicians to change. They are always monopolizing knowledge! Break this monopoly by learning more, making knowledge available, free of charge! Break the technological black box!
 
 
 ____________________________________________________________
