@@ -1,8 +1,8 @@
 # Community-Scientists!?
 
-The only thing worth doing in life is to learn, solve problems, and help others learn.
+To learn, solve problems, sharing knowledge and help others learn.
 
-
+![learn_x_protest](https://github.com/yuchenglim/Community-Scientists/blob/main/Images/learn_x_protest.png)
 
 How do they know it?  
 https://astronomy.stackexchange.com/questions/34091/any-book-on-how-do-they-know-it-in-astronomy
