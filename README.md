@@ -1,4 +1,8 @@
-# Community-Scientists
+# Community-Scientists!?
+
+The only thing worth doing in life is to learn, solve problems, and help others learn.
+
+
 
 How do they know it?  
 https://astronomy.stackexchange.com/questions/34091/any-book-on-how-do-they-know-it-in-astronomy
