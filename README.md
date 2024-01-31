@@ -1,10 +1,11 @@
-# Community-Scientists: The Love for Science 🩷 and doing something!
+# Community-Scientists: We don't need more Einsteins, big companies, professionals, leaders; we need more ordinary people who are willing take on the challenge to learn Science and solve problems, for the love of it 🩷
 Life is filled with contradictions, problems, perhaps hints.
 - Why are we so crazy about singers? Why don't we sing ourselves?
 - Why are we so concerned with other's opinions about health, when we can try it and observe the effects ourselves?
 - Why do we look for the best teachers, while we could learn more by observing ourselves?
 - Why do we create so many problems for ourselves, only to complain about life?
 - Why do we search for happiness, get some, and end up searching for more?
+- Can we work hard, without asking for any returns?
 
 Elo! I should have introduced myself earlier. Thanks to Marcus, Ryan and Tyler who gave me the courage to write this.
 
