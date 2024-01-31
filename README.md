@@ -1,8 +1,8 @@
 # Community-Scientists!?
-Elo! I should have introduced myself earlier. Thanks to Marcus, Ryan and Tyler who gave me the encouragement to write this. 
+Elo! I should have introduced myself earlier. Thanks to Marcus, Ryan and Tyler who gave me the encouragement to write this.
 
-A little about me:~
- I am not smart. I just spent too much time reading books. You can do it too! I have faced many ugly problems in life.
+A little about me:~  
+I'm nothing. I just spent too much time reading books. You can do it too! I have faced many ugly problems in life.
 
 *Do you really need motivation to study?*
 
@@ -12,26 +12,26 @@ The problem I sought to gain insight about is, how to self-study graduate Mathem
 
 P.S. Scientists refer to themselves as Science workers: all they do is solve problems (Science is not as glamorous, exciting! Imagine running through 10 textbooks, solving every problem…). 工匠之心. Yet to them, work is play! Can you make studying even more interesting than video games? *Go with the flow: you and books only*
 
-But where to find hard, illuminating problems?
-The key point is to not rely on any teacher, but self-study! Explore on your own!
-The Science Olympiads (IPhO, IChO, IOAA, IAO etc) See if you can find my picture :)
+But where to find hard, illuminating problems?  
+The key point is to not rely on any teacher, but self-study! Explore on your own!  
+The Science Olympiads (IPhO, IChO, IOAA, IAO etc)  
 https://amiso.my/ipho/
 
-Mechanics:
+Mechanics:  
 https://www.aapt.org/Common2022/pastexams.cfm
 
-Kevin Zhou: This handsome's webpage contains lots of advice (how to start from zero etc) and practice problems
+Kevin Zhou: This handsome's webpage contains lots of advice (how to start from zero etc) and practice problems  
 https://knzhou.github.io/
 
 Check out:
-https://madasmaths.com/
-JEE (India)
+- https://madasmaths.com/
+- JEE (India)
 
 *But it’s so hard! How to study? Here’s some homework to get you started:*
-Print out the whole A-levels syllabus
-Visit the library and get A-levels/*first year university textbooks* (Physics, Chemistry). Read!
-Print out a list of Physics and Chemistry Nobel Laureates and their topics. Aim to learn everything!
-AMISO: IPhO, IChO, IOAA roadmap + what resources. Kevin Zhou’s advice.
+- Print out the whole A-levels syllabus
+- Visit the library and get A-levels/*first year university textbooks* (Physics, Chemistry). Read!
+- Print out a list of Physics and Chemistry Nobel Laureates and their topics. Aim to learn everything!
+- AMISO: IPhO, IChO, IOAA roadmap + what resources. Kevin Zhou’s advice.
 
 *How to discipline yourself? How to overcome bad habits?*
 Talk to someone, ask them to discipline you! Give them your phone! Going against the grain.
