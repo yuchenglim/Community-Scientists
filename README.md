@@ -6,7 +6,7 @@ How do enzymes catalyze reactions? How do industrial catalysts work? How are the
 
 How did Chemists narrow down to pure compounds and construct a periodic table? How did chemists who did not have access to spectrocopes discover isomerism, via purely chemical methods!? (of course, melting points...)
 
-How are Olympiad problems created anyway?...
+How are Math Olympiad problems created anyway?...
 
 Is there a way to learn everything in ones lifetime? 
 
