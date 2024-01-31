@@ -2,7 +2,9 @@
 Life is filled with contradictions, problems, perhaps hints.
 - Why are we so crazy about singers? Why don't we sing ourselves?
 - Why are we so concerned with other's opinions of health, when we can try it and observe the effects ourselves?
+- Why do we look for the best teachers, while we could learn more by observing ourselves?
 - Why do we create so many problems for ourselves, only to complain about life?
+- Why do we search for happiness, get some, and end up searching for more?
 
 Elo! I should have introduced myself earlier. Thanks to Marcus, Ryan and Tyler who gave me the courage to write this.
 
