@@ -14,8 +14,7 @@ How do they know it?
 https://astronomy.stackexchange.com/questions/34091/any-book-on-how-do-they-know-it-in-astronomy
 
 
-_________________
-Why learn more?
+_____________
 
 ![learn_x_protest](https://github.com/yuchenglim/Community-Scientists/blob/main/Images/learn_x_protest.png)
 
