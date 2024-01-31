@@ -1,4 +1,4 @@
-# Community-Scientists!?
+# Community-Scientists: Whoever you are, whatever you do, do real Science, for a change
 Elo! I should have introduced myself earlier. Thanks to Marcus, Ryan and Tyler who gave me the encouragement to write this.
 
 A little about me:~  
