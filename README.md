@@ -1,5 +1,5 @@
 # Community-Scientists: Whoever you are, whatever you do, do real Science, for a change
-Elo! I should have introduced myself earlier. Thanks to Marcus, Ryan and Tyler who gave me the encouragement to write this.
+Elo! I should have introduced myself earlier. Thanks to Marcus, Ryan and Tyler who gave me the courage to write this.
 
 A little about me:~  
 I'm nothing. I just spent too much time reading books. You can do it too! I have faced many ugly problems in life.
