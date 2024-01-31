@@ -1,4 +1,44 @@
 # Community-Scientists!?
+Elo! I should have introduced myself earlier. Thanks to Marcus, Ryan and Tyler who gave me the encouragement to write this. 
+
+A little about me:~
+ I am not smart. I just spent too much time reading books. You can do it too! I have faced many ugly problems in life.
+
+*Do you really need motivation to study?*
+
+Life is about problem solving. This world is awful, there are many problems, pick one and solve it! Solve it not for any reward. True happiness comes when we can work hard without asking for anything in return!
+
+The problem I sought to gain insight about is, how to self-study graduate Mathematics and Physics? How to study when you feel bored? How to build an NMR machine? How was Schrodinger’s equation discovered? And apparently, the proper way to learn Science is to solve problems in their natural context. Not cookie-cutter problems, but problems that led to discovery.
+
+P.S. Scientists refer to themselves as Science workers: all they do is solve problems (Science is not as glamorous, exciting! Imagine running through 10 textbooks, solving every problem…). 工匠之心. Yet to them, work is play! Can you make studying even more interesting than video games? *Go with the flow: you and books only*
+
+But where to find hard, illuminating problems?
+The key point is to not rely on any teacher, but self-study! Explore on your own!
+The Science Olympiads (IPhO, IChO, IOAA, IAO etc) See if you can find my picture :)
+https://amiso.my/ipho/
+
+Mechanics:
+https://www.aapt.org/Common2022/pastexams.cfm
+
+Kevin Zhou: This handsome's webpage contains lots of advice (how to start from zero etc) and practice problems
+https://knzhou.github.io/
+
+Check out:
+https://madasmaths.com/
+JEE (India)
+
+*But it’s so hard! How to study? Here’s some homework to get you started:*
+Print out the whole A-levels syllabus
+Visit the library and get A-levels/*first year university textbooks* (Physics, Chemistry). Read!
+Print out a list of Physics and Chemistry Nobel Laureates and their topics. Aim to learn everything!
+AMISO: IPhO, IChO, IOAA roadmap + what resources. Kevin Zhou’s advice.
+
+*How to discipline yourself? How to overcome bad habits?*
+Talk to someone, ask them to discipline you! Give them your phone! Going against the grain.
+For Buddhists, I recommend reading Dhamma talks by Ajahn Chah (Theravada, Thai forest monks). For non-Buddhists, you don't need this. Just in case, view Buddhism not as a religion, but just a bunch of wise people and tips and tricks on how to overcome bad habits.
+
+________________________________________________________
+
 
 We flush down detergents, drain cleaners and 💩. How do all these get treated?
 
