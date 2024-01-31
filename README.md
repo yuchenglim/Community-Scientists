@@ -1,4 +1,4 @@
-# Community-Scientists: The Love for Science 🩷
+# Community-Scientists: The Love for Science 🩷 and doing something!
 Life is filled with contradictions, problems, perhaps hints.
 - Why are we so crazy about singers? Why don't we sing ourselves?
 - Why are we so concerned with other's opinions about health, when we can try it and observe the effects ourselves?
