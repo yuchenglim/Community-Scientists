@@ -43,7 +43,7 @@ Check out:
 
 **How to discipline yourself? How to overcome bad habits?**
 Talk to someone, ask them to discipline you! Give them your phone! Going against the grain.
-For Buddhists, I recommend reading Dhamma talks by Ajahn Chah (Theravada, Thai forest monks). For non-Buddhists, you don't need this. Just in case, view Buddhism not as a religion, but just a bunch of wise people and tips and tricks on how to overcome bad habits.
+For Buddhists, I recommend reading Dhamma talks by Ajahn Chah (Theravada, Thai forest monks). For non-Buddhists, refer to your religion.
 
 ________________________________________________________
 
