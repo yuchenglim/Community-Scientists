@@ -40,7 +40,10 @@ Check out:
 - Visit the library and get A-levels/**first year university textbooks** (Physics, Chemistry). Read!
 - Print out a list of Physics and Chemistry Nobel Laureates and their topics. Aim to learn everything!
 - AMISO: IPhO, IChO, IOAA roadmap + what resources. Kevin Zhou’s advice.
-
+- Speed Reading with the Right Brain: Learn to Read Ideas Instead of Just Words
+- 50 successful ivy league application essays
+- watch example MIT maker portfolios on Youtube
+ 
 **How to discipline yourself? How to overcome bad habits?**
 Talk to someone, ask them to discipline you! Give them your phone! Going against the grain.
 For Buddhists, I recommend reading Dhamma talks by Ajahn Chah (Theravada, Thai forest monks). For non-Buddhists, refer to your religion.
