@@ -92,7 +92,22 @@ https://chemistry.stackexchange.com/questions/110621/inorganic-chemistry-handboo
 
 _________________________________
 # Quantum/Computational Chemistry  
+Bucket List:  
+(sp-hybridisation and NBO)  
+https://nbo7.chem.wisc.edu/tutorial.html  
+https://chemistry.stackexchange.com/questions/50906/are-the-lone-pairs-in-water-equivalent  
 
+https://chemistry.stackexchange.com/questions/6785/how-can-the-bonding-in-if7-be-explained-using-lcao-method?rq=1
+
+Which one, Mulliken charge distribution and NBO, is more reliable?  
+https://chemistry.stackexchange.com/questions/15569/which-one-mulliken-charge-distribution-and-nbo-is-more-reliable?noredirect=1&lq=1
+
+How does the MO-LCAO theory explain the direction of valence bonds?  
+https://chemistry.stackexchange.com/questions/162940/how-does-the-mo-lcao-theory-explain-the-direction-of-valence-bonds
+
+https://forum.psicode.org/t/incorrectly-gives-all-real-frequencies-for-a-transition-state/464
+
+__________________
 ChemCompute  
 https://chemcompute.org/  
 Go to a particular package and see the "experiments" i.e. guided tutorials for specific topics!
