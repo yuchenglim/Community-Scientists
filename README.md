@@ -1,4 +1,10 @@
 # Community-Scientists: We don't need more Einsteins, big companies, professionals, leaders; we need more ordinary people who are willing take on the challenge to learn Science and solve problems, for the love of it 🩷
+
+Important pages:
+
+
+
+
 Life is filled with contradictions, problems, perhaps hints.
 - Why are we so crazy about singers? Why don't we sing ourselves?
 - Why are we so concerned with other's opinions about health, when we can try it and observe the effects ourselves?
