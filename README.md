@@ -2,7 +2,9 @@
 
 Important pages:
 
+https://github.com/yuchenglim/Community-Scientists/tree/main/Problem%20Sets
 
+https://github.com/yuchenglim/Community-Scientists/blob/main/Nature%3A%20A%20Malaysian's%20Perspective.pdf
 
 
 Life is filled with contradictions, problems, perhaps hints.
