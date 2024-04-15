@@ -92,7 +92,9 @@ https://econsphdtutor.wordpress.com/free-stuff/
 
 #### Japan  
 Japanese University Entrance Examination Problems in Mathematics  
-(Books and articles)
+(Books and articles)  
+"Japanese University Entrance Examination Problems in Mathematics"   https://maa.org/sites/default/files/pdf/programs/JUEEDocument.pdf
+
 
 #### UK  
 STEP Mathematics Cambridge: very hard questions and really nice notes!  
