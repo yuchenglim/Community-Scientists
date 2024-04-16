@@ -10,6 +10,7 @@ Sorry NY Times, but I have to reproduce this amazing article. Please do not sue 
 
 [E.P.A. Rule Change Could Let Dirtiest Coal Plants Keep Running (and Stay Dirty) - The New York Times.pdf
 ](https://github.com/yuchenglim/Community-Scientists/blob/main/E.P.A.%20Rule%20Change%20Could%20Let%20Dirtiest%20Coal%20Plants%20Keep%20Running%20(and%20Stay%20Dirty)%20-%20The%20New%20York%20Times.pdf)
+
 (https://www.nytimes.com/2018/08/24/climate/epa-coal-power-scrubbers.html)
 
 Life really is about being diligent: if no one scrubs the toilet, you scrub it. If these companies don’t change, closing them down is the worst solution. Why don’t we provide free scrubbers, as a community? Someone can do the design, someone can install, some one can source the materials.
