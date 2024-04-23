@@ -1,3 +1,9 @@
+A few tips and tricks:  
+In debating, Mifzal told us to transcribe WUDC speeches, that is, listening and writing down every word.
+
+我的一位中文老师介绍我阅读《读者》杂志，另一位则鼓励我们抄诗歌，宋词。确实，如果遇到一篇好文章，把主要的段落抄出来，不只可以学些词句，还可以锻炼写字能力（写得快，写得工整）
+
+____________________________________________________________
 Why must we rely on teachers? Why can't we just self-study???  
 https://apcentral.collegeboard.org/courses  
 VS  
