@@ -1,4 +1,4 @@
-A few tips and tricks:  
+**A few tips and tricks:**  
 In debating, Mifzal told us to transcribe WUDC speeches, that is, listening and writing down every word.
 
 我的一位中文老师介绍我阅读《读者》杂志，另一位则鼓励我们抄诗歌和宋词。确实，如果遇到一篇好文章，把主要的段落抄出来，不只可以学些词句，还可以锻炼写字能力（要写得快，写得工整！）
@@ -13,6 +13,7 @@ AP English Language and Composition
 https://apcentral.collegeboard.org/courses/ap-english-language-and-composition  
 AP Course Audit; example textbook list!  
 "Course and Exam Description": how to plan and teach a course!!!
+________________________________________________
 
 ## Long reading resources
 We read the major academic journals and case studies so you don't have to.  
@@ -56,8 +57,7 @@ https://historyprofessor.org/reading/a-laypersons-reading-list-in-american-histo
 Books recommended by Elon Musk  
 https://www.lifestyleasia.com/kl/culture/people/books-recommended-by-elon-musk/
 
-
-## Must read articles  
+## Must read articles: Learning English via Controversies :)
 College Board Profiteering  
 https://inthesetimes.com/article/college-boards-african-american-studies-profiteering-sats-ap  
 
@@ -80,9 +80,6 @@ https://tidsskriftet.no/en/2020/08/kronikk/money-behind-academic-publishing
 
 Cambridge is evil: monopoly on exam papers  
 https://lumendatabase.org/notices/35782980#
-
-## Grounding your bearings
-Thesis: academia is lofty: I start to get less concerned about others, and start to pursue unnecessary, lavish, luxury: girls. I need something to gound my moral conscience.
 
 search for books about how margaret thatcher ruined British economy  
 Poverty in the UK  
