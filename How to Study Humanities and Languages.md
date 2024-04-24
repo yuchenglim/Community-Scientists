@@ -58,6 +58,11 @@ Books recommended by Elon Musk
 https://www.lifestyleasia.com/kl/culture/people/books-recommended-by-elon-musk/
 
 ## Must read articles: Learning English via Controversies :)
+https://thediplomat.com/2017/05/why-does-a-top-scientists-move-to-us-strike-a-nerve-in-china/  
+(Yan Ning's blog)  
+https://blog.sciencenet.cn/home.php?mod=space&uid=65865
+
+
 College Board Profiteering  
 https://inthesetimes.com/article/college-boards-african-american-studies-profiteering-sats-ap  
 
